@@ -119,3 +119,6 @@ strncpy@@GLIBC_2.2.5
 _edata
 main
 _init
+
+
+![image](https://user-images.githubusercontent.com/58043681/163980888-21e293c0-e4e3-4a8b-a47e-5ee88fbe25be.png)
